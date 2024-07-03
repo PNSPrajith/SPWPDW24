@@ -1,2 +1,2 @@
 # SPWPDW24
-This repository contains all the stuff learned in SPW-PDW 2024. 
+This repository contains all the stuff done in SPW-PDW 2024. 
